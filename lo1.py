@@ -1,3 +1,1 @@
-print("my name is lohith")
-print("my name is lohith")
-print("my name is lohith d")
+print("my name is siddarth")
